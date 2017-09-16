@@ -1,11 +1,19 @@
-- title: "Paris"
-  url: "http://google.fr"
+- title: "Berlin"
   location:
-    latitude: 48.8587741
-    longitude: 2.2074741
+    latitude: 52.5069704
+    longitude: 13.2846503
 
-- title: "Madrid"
-  url: "http://google.es"
+- title: "Nepal"
   location:
-    latitude: 40.4378698
-    longitude: -3.8196204
+    latitude: 27.7089427
+    longitude: 85.2560925
+
+- title: "Eschborn"
+  location:
+    latitude: 50.1438687
+    longitude: 8.5579001
+
+- title: "Chennai"
+  location:
+    latitude: 13.0478223
+    longitude: 80.0689274
